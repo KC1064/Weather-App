@@ -3,9 +3,11 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
+    
 }
+
 body {
-    background: black;
+    background-color: rgb(125, 226, 125);
 }
 .card {
     width: 90%;
@@ -16,6 +18,7 @@ body {
     border-radius: 20px;
     padding: 40px 35px;
     text-align: center;
+    border: solid 4px black;
 }
 .search {
     width: 100%;
@@ -83,4 +86,16 @@ body {
 .humidity, .wind {
     font-size: 28px;
     margin-top: -6px;
+}
+
+.weather {
+    display: none;
+}
+
+.error {
+    text-align: left;
+    margin-left: 10px;
+    font-size: 14px;
+    margin-top: 10px;
+    display: none;
 }
