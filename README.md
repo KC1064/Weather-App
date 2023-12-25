@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App](./valid.png)
+<img src="./valid.png"></img>
 
 
 ## Tech Stack
