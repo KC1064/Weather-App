@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App](./assets/valid.png)
+![Weather App](./valid.png)
 
 
 ## Tech Stack
